@@ -1,0 +1,1 @@
+trying a simple snake game with Pygame
